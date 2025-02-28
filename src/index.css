@@ -1,0 +1,10 @@
+.title {
+    color: blue;
+    cursor: pointer;
+    font-size: 3rem;
+}
+
+title:hover {
+
+    color: blueviolet;
+}
